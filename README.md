@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Game development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...thomasroyh289@gmsil.com
+- 📫 How to reach me ...thomasroyh289@gmail.com
 
 <!---
 Thomasroy289/Thomasroy289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
