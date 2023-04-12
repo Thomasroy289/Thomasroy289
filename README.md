@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Thomasroy289
 - 👀 I’m interested in ...Game development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...thomasroyh289@gmail.com
 
 <!---
